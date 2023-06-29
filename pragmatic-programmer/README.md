@@ -47,3 +47,27 @@ specification.
 
 > Prototyping generates disposable code. Tracer code is lean but
 complete, and forms part of the skeleton of the final system.
+
+## Topic 13: Prototypes and Post-it Notes
+
+> prototyping is much cheaper than full-scale production.
+
+> We build software prototypes (...) to analyze and expose risk, and to offer chances for correction at a greatly reduced cost.
+
+> What sorts of things might you choose to investigate with a prototype? Anything that carries risk. Anything that hasn’t been tried before, or that is absolutely critical to the final system. Anything unproven, experimental, or doubtful. Anything you aren’t comfortable with. You can prototype: Architecture; New functionality in an existing system; Structure or contents of external data; Third-party tools or components; Performance issues; User interface design.
+
+> Prototyping is a learning experience. Its value lies not in the code produced, but in the lessons learned. That’s really the point of prototyping.
+
+> Before you embark on any code-based prototyping, make sure that everyone understands that you are writing disposable code. Prototypes can be deceptively attractive to people who don’t know that they are just prototypes. You must make it very clear that this code is disposable, incomplete, and unable to be completed.
+
+> If you feel there is a strong possibility in your environment or culture that the purpose of prototype code may be misinterpreted, you may be better off with the tracer bullet approach. You’ll end up with a solid framework on which to base future development.
+
+> Properly used prototypes can save you huge amounts of time, money, and pain by identifying and correcting potential problem spots early in the development cycle—the time when fixing mistakes is both cheap and easy.
+
+### Topic 14: Domain Languages
+
+> Your business users will have a vague idea of what they want to achieve, but they neither know nor care about the details. That’s part of our value: we intuit intent and convert it to code.
+
+> Our suggestion is fairly simple: don’t spend more effort than you save. Writing a domain language adds some cost to your project, and you’ll need to be convinced that there are offsetting savings (potentially in the long term).
+
+> We’d recommend using external languages only in cases where your language will be written by the users of your application.
