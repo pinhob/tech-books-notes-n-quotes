@@ -71,3 +71,77 @@ complete, and forms part of the skeleton of the final system.
 > Our suggestion is fairly simple: don’t spend more effort than you save. Writing a domain language adds some cost to your project, and you’ll need to be convinced that there are offsetting savings (potentially in the long term).
 
 > We’d recommend using external languages only in cases where your language will be written by the users of your application.
+
+## Topic 15: Estimating
+
+We improve our estimating skills with time, keeping a tracker of our previous estimations and always checking how accurate we were, and refining our skill and system.
+
+It's important to always estimate how long our tasks will take with a timespan, and not a fixed estimation - like 'in the best case, three weeks and in the worst five', instead of 30 days, for example.
+
+The scale you use it's also important. The authors give a tip to say, depending of the duration:
+
+| Duration | Quote estimate in |
+|--- | --- |
+| 1–15 days | Days | 
+| 3–6 weeks | Weeks |
+| 8–20 weeks |  Months | 
+| 20+ weeks |  Think hard before giving an estimate | 
+
+Also:
+- Understand What’s Being Asked
+- Build a Model of the System
+- Break the Model into Components
+- Give Each Parameter a Value
+- Calculate the Answers
+- Keep Track of Your Estimating Prowess
+
+> By learning to estimate, and by developing this skill to the point where you have an intuitive feel for the magnitudes of things, you will be able to show an apparent magical ability to determine their feasibility.
+
+> To some extent, all answers are estimates. It’s just that some are
+more accurate than others. So the first question you have to ask
+yourself when someone asks you for an estimate is the context
+in which your answer will be taken. Do they need high accuracy,
+or are they looking for a ballpark figure?
+
+> a basic estimating trick that always gives good
+answers: ask someone who’s already done it.
+
+> The first part of any estimation exercise is building an
+understanding of what’s being asked. As well as the accuracy
+issues discussed above, you need to have a grasp of the scope of
+the domain. Often this is implicit in the question, but you need
+to make it a habit to think about the scope before starting to
+guess. Often, the scope you choose will form part of the answer
+you give: “Assuming there are no traffic accidents and there’s
+gas in the car, I should be there in 20 minutes.”
+
+> Once you have the parameters broken out, you can go through
+and assign each one a value. You expect to introduce some
+
+> You should have a justifiable way of calculating these critical
+parameters
+
+> We think it’s a great idea to record your estimates so you can see
+how close you were. If an overall estimate involved calculating
+subestimates, keep track of these as well. Often you’ll find your
+estimates are pretty good—in fact, after a while, you’ll come to
+expect this.
+
+> When an estimate turns out wrong, don’t just shrug and walk
+away—find out why. Maybe you chose some parameters that
+didn’t match the reality of the problem. Maybe your model was
+wrong. Whatever the reason, take some time to uncover what
+happened. If you do, your next estimate will be better.
+
+> We find that often the only way to determine the timetable for a
+project is by gaining experience on that same project. This
+needn’t be a paradox if you practice incremental development,
+repeating the following steps with very thin slices of
+functionality: Check requirements; Analyze risk (and prioritize riskiest items earlier); Design, implement, integrate; Validate with the users.
+
+> WHAT TO SAY WHEN ASKED FOR AN ESTIMATE
+You say “I’ll get back to you.”
+You almost always get better results if you slow the process
+down and spend some time going through the steps we describe
+in this section. Estimates given at the coffee machine will (like
+the coffee) come back to haunt you.
